@@ -1,0 +1,45 @@
+* {
+  font-family: sans-serif;
+}
+.footer-top {
+  background-color: #212529;
+  color: #fff;
+}
+.footer-bottom {
+  font-family: sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+.about-footer p {
+  font-family: sans-serif;
+  line-height: 20px;
+}
+.site-logo {
+  margin-bottom: 10px;
+}
+
+.footer-menu li a {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #fff;
+  padding: 3px 0;
+}
+.footer-menu li a:hover {
+  color: #1abc9c;
+}
+.footer-section li a {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #fff;
+  padding: 3px 0;
+}
+.footer-section li a:hover {
+  color: #1abc9c;
+}
+.subscribe {
+  color: #fff;
+}
+.subscribe p {
+  font-size: 16px;
+  color: #fff;
+}
